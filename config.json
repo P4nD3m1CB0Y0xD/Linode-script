@@ -1,0 +1,4 @@
+{
+    "apikey": "<YOUR API KEY HERE>",
+    "apiurl": "https://api.linode.com/v4"
+}
